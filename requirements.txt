@@ -1,0 +1,5 @@
+pandas
+pypdf2
+openpyxl
+python-dotenv
+pydantic

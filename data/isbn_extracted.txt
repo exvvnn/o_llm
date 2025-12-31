@@ -1,0 +1,21 @@
+High Performance Python (2020).pdf: 9781492055020
+Building Microservices (2021).pdf: 9781492034025
+Building Knowledge Graphs (2023).pdf: ISBN not found
+Programming Massively Parallel Processors (2012).pdf: 0987654321
+Ansible (2022).pdf: 9781098109158
+Designing Cloud Data Platforms (2021).pdf: 9781617296444
+Designing Data-Intensive Applications (2017).pdf: 9781449373320
+Version Control with Git (2022).pdf: 9781492091196
+Platform Engineering (2024).pdf: 9781098153649
+AWS Cookbook (2022).pdf: 9781492092605
+The Enterprise Data Catalog (2023).pdf: 9781492098713
+Artificial Intelligence in Finance (2020).pdf: 9781492055433
+Building Secure and Reliable Systems (2023).pdf: 9781492083122
+Machine Learning Production Systems (2024).pdf: 9781098156015
+Semantic Modeling for Data (2020).pdf: 9781492054276
+Cloud FinOps (2020).pdf: 9781492054627
+Build a Large Language Model (2024).pdf: 0000000298
+Fundamentals of Data Engineering (2022).pdf: 9781098108304
+The Practitioner’s Guide To Graph Data (2020).pdf: 9781492044079
+High Performance Python (2020).pdf: 9781492055020
+Building Microservices (2021).pdf: 9781492034025
