@@ -1,9 +1,7 @@
 import os
 import re
 from PyPDF2 import PdfReader
-
 from typing import Optional, Callable, Sequence
-
 
 def extract_isbn_from_pdf(pdf_path):
     try:
@@ -24,8 +22,9 @@ def extract_isbn_from_pdf(pdf_path):
          print(f"An error occurred: {e}")
          return None
 
+
 # TODO: replace the path with an environment variable
-for root, dirs, files in os.walk(os.path.expanduser('~/Documents/home/knowledgebase/books/books')):
+for root, dirs, files in os.walk(os.path.expanduser('')):
     for file in files:
         if file.endswith('.pdf'):
             pdf_path = os.path.join(root, file)

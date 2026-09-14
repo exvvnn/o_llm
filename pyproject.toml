@@ -1,7 +1,14 @@
 [project]
-name = "knowledgebase"
+name = "o_agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.11"
+dependencies = [
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.2",
+    "sqlalchemy>=2.0.0",
+    "accelerate>=1.0.0",
+    "torch>=2.13.0",
+    "transformers>=5.15.1",
+]

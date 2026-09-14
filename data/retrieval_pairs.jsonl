@@ -1,0 +1,12 @@
+{"query":"How do I build scalable data pipelines in the cloud?","positive_source":"Designing Cloud Data Platforms (2021)"}
+{"query":"What are the core ideas in data-intensive distributed systems?","positive_source":"Designing Data-Intensive Applications (2017)"}
+{"query":"How should I deploy and monitor machine learning models?","positive_source":"Machine Learning Production Systems (2024)"}
+{"query":"How do transformers use attention and tokenization?","positive_source":"Build a Large Language Model (2024)"}
+{"query":"What are practical GPU optimization techniques?","positive_source":"Programming Massively Parallel Processors (2012)"}
+{"query":"How do I design reliable microservices and APIs?","positive_source":"Building Microservices (2021)"}
+{"query":"How can I automate infrastructure with playbooks?","positive_source":"Ansible (2022)"}
+{"query":"What practices improve cloud cost management?","positive_source":"Cloud FinOps (2020)"}
+{"query":"How do I build a secure and reliable production system?","positive_source":"Building Secure and Reliable Systems (2023)"}
+{"query":"How are knowledge graphs and ontologies used for search?","positive_source":"Building Knowledge Graphs (2023)"}
+{"query":"What does platform engineering do for developer experience?","positive_source":"Platform Engineering (2024)"}
+{"query":"How do I manage metadata, lineage, and data discovery?","positive_source":"The Enterprise Data Catalog (2023)"}

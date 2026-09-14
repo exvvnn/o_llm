@@ -39,6 +39,9 @@ class OBMarkdownHandler:
         if args.clone:
             print("Cloning git repo...")
             # Add your cloning logic here
+        if args.open:
+            print("Opening Obsidian vault...")
+            # Add your vault opening logic here
         if args.create:
             print("Creating objects...")
             # Add your object creation logic here

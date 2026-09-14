@@ -31,10 +31,11 @@ if __name__ == "__main__":
     args = arg.parse_args()
 
     if args.create_env:
-        os.system("python3.11 -m venv .venv")
+        os.system("python3.11.16 -m venv .venv")
     if args.install:
         os.environ["PYTHONDONTWRITEBYTECODE"] = "1"
         os.system("fish -c 'source .venv/bin/activate.fish && pip3 install --upgrade pip && pip3 install -r requirements.txt --break-system-packages'")
+        os.system("") # My dev install, sync and build manager
     if args.clone:
         from functions.generate_repo import SimpleGitClient
         if SimpleGitClient().run() is not None:
@@ -42,7 +43,7 @@ if __name__ == "__main__":
         else:
             print(f"Repo not cloned: {current_time}")
     elif args.create:
-        xlsxClient.create_sheet("Sheet1", "DataTable")
+        # xlsxClient.create_sheet("Sheet1", "DataTable")
 
 
     else:

@@ -1,6 +1,12 @@
 
 # Files
+
+
 # Folders
+/__pycache__
+/function/__pycache__
+/helpers/__pycache__
+/.pytest_cache
 /.venv
 /books
 

@@ -1,0 +1,75 @@
+BOOK: High Performance Python (2020)
+Topics: Performance optimization, profiling, concurrency, NumPy, Cython, multithreading
+Content: This book covers techniques for writing high-performance Python code. Topics include memory optimization, using NumPy for vectorized operations, Cython for compiled extensions, multiprocessing and multithreading for parallel execution, distributed computing with frameworks like Dask, and profiling tools to identify bottlenecks. Key concepts: GIL limitations, asyncio for I/O-bound tasks, PyPy JIT compilation, and optimization patterns for data science applications.
+
+BOOK: Building Microservices (2021)
+Topics: Microservices architecture, service design, deployment, API design, communication patterns
+Content: A comprehensive guide to designing and building microservices-based systems. Covers service boundaries, communication between services (synchronous and asynchronous), API design principles, deployment strategies including containerization, monitoring and observability, testing microservices, and handling failures. Discusses trade-offs between monolithic and microservices architectures, database per service patterns, and techniques for managing distributed systems complexity.
+
+BOOK: Building Knowledge Graphs (2023)
+Topics: Knowledge graphs, semantic networks, RDF, ontologies, entity resolution, data integration
+Content: Explains how to construct and leverage knowledge graphs for data organization and AI applications. Topics include representing entities and relationships, semantic web technologies (RDF, SPARQL), ontology design, entity linking and resolution, graph databases, knowledge graph completion using machine learning, and real-world applications in recommendation systems, search, and question answering. Discusses integration of knowledge graphs with LLMs and semantic search.
+
+BOOK: Programming Massively Parallel Processors (2012)
+Topics: GPU programming, CUDA, parallel algorithms, optimization, memory hierarchy, thread execution
+Content: Detailed guide to GPU computing and CUDA programming. Covers thread execution model, memory hierarchy optimization, synchronization primitives, parallel algorithm design patterns, performance optimization techniques, and case studies. Discusses differences between CPU and GPU architectures, warp-level operations, memory coalescing, register usage, and shared memory optimization for achieving high throughput on graphics processors.
+
+BOOK: Ansible (2022)
+Topics: Infrastructure automation, configuration management, playbooks, modules, cloud provisioning
+Content: Complete guide to Ansible for automating infrastructure. Covers writing playbooks, creating reusable roles, managing inventory, using Ansible modules for various systems, error handling and debugging, integrating with cloud providers (AWS, Azure, GCP), and best practices for scalable automation. Discusses idempotency, vault for secrets management, testing infrastructure code, and advanced patterns for complex environments.
+
+BOOK: Designing Cloud Data Platforms (2021)
+Topics: Cloud architecture, data pipelines, scalability, cost optimization, real-time processing
+Content: Explores building data platforms on cloud infrastructure. Topics include selecting cloud providers (AWS, Azure, GCP), designing scalable data ingestion pipelines, choosing appropriate storage solutions (data lakes, data warehouses), implementing real-time and batch processing, cost management and optimization, security and compliance, monitoring data quality, and managing data governance at scale.
+
+BOOK: Designing Data-Intensive Applications (2017)
+Topics: Distributed systems, databases, data structures, replication, consensus, scalability
+Content: Comprehensive treatment of building reliable, scalable data systems. Covers fundamental concepts like reliability, scalability, and maintainability, data models (relational, document), storage engines and indexing, replication strategies for high availability, partitioning for scalability, transactions and consistency guarantees, distributed systems challenges including consensus algorithms, and batch and stream processing paradigms.
+
+BOOK: Version Control with Git (2022)
+Topics: Git workflows, branching strategies, collaboration, remote repositories, troubleshooting
+Content: Practical guide to Git version control system. Covers basic Git concepts, creating and managing repositories, branching and merging strategies (Git Flow, trunk-based development), working with remote repositories, collaboration workflows, cherry-picking and rebasing, handling conflicts, and advanced troubleshooting. Discusses best practices for commit messages, code review integration, and distributed development patterns.
+
+BOOK: Platform Engineering (2024)
+Topics: Platform as a product, developer experience, internal developer platforms, automation, observability
+Content: Modern approach to building internal developer platforms as products. Focuses on improving developer experience, self-service capabilities, standardized deployment and configuration, reducing cognitive load on developers, infrastructure automation, observability and monitoring, security integration, and continuous learning. Discusses platform thinking, enabling teams, measuring platform success, and building platforms that scale with organizational growth.
+
+BOOK: AWS Cookbook (2022)
+Topics: AWS services, recipes, best practices, infrastructure patterns, security, cost optimization
+Content: Collection of practical recipes for solving common AWS challenges. Covers EC2, S3, RDS, Lambda, VPC, IAM, and other AWS services. Topics include database automation, password rotation, network configuration and troubleshooting, security best practices, containerization with ECS/EKS, serverless patterns, data processing, and cost optimization techniques. Includes code examples and diagrams for implementing solutions safely.
+
+BOOK: The Enterprise Data Catalog (2023)
+Topics: Data cataloging, metadata management, data discovery, data governance, data quality
+Content: Guide to implementing data catalogs in enterprises. Covers metadata collection and organization, making data discoverable to users, data governance frameworks, data lineage tracking, quality metrics and monitoring, integration with analytics tools, and building a data-driven culture. Discusses technical implementation, organizational challenges, and strategies for getting adoption of data catalog systems.
+
+BOOK: Artificial Intelligence in Finance (2020)
+Topics: Machine learning in finance, algorithmic trading, risk management, fraud detection, time series
+Content: Applications of AI and machine learning in financial services. Covers algorithmic trading systems, predicting market movements, portfolio optimization, credit risk assessment, fraud detection, and compliance monitoring. Discusses time series forecasting, reinforcement learning for trading, natural language processing for sentiment analysis, and ethical considerations in deploying AI in finance.
+
+BOOK: Building Secure and Reliable Systems (2023)
+Topics: Security, reliability, SRE practices, incident response, system design, automation
+Content: Google's perspective on building systems that are both secure and reliable. Topics include defense in depth, secure by default principles, incident response and postmortems, monitoring and alerting, chaos engineering, capacity planning, change management, and organizational practices for security and reliability. Emphasizes that security and reliability are ongoing processes requiring cultural and technical investments.
+
+BOOK: Machine Learning Production Systems (2024)
+Topics: ML pipelines, model deployment, monitoring, retraining, infrastructure, data quality
+Content: Practical guide to deploying and maintaining machine learning models in production. Covers end-to-end ML pipelines, feature engineering and storage, model training and experimentation, deployment strategies, monitoring model performance and data drift, automated retraining, handling failures, and infrastructure considerations. Discusses technical debt in ML systems, managing model versions, and organizational practices for sustainable ML.
+
+BOOK: Semantic Modeling for Data (2020)
+Topics: Semantic web, RDF, ontologies, linked data, data integration, knowledge representation
+Content: Introduction to semantic technologies for data modeling. Covers RDF for representing data as graphs, designing ontologies and vocabularies, SPARQL for querying semantic data, linked data principles, semantic interoperability, and knowledge representation. Discusses applications in data integration, making data machine-readable, and enabling intelligent data systems using formal knowledge representation.
+
+BOOK: Cloud FinOps (2020)
+Topics: Cloud cost management, financial operations, budgeting, cost optimization, vendor management
+Content: Framework for managing cloud expenditure (FinOps). Covers understanding cloud costs, allocating costs to business units, optimizing spending across cloud providers, negotiating contracts, forecasting and budgeting, automation of cost controls, and organizational practices for cost accountability. Discusses reserved instances, spot instances, and identifying wasteful spending patterns.
+
+BOOK: Build a Large Language Model (2024)
+Topics: LLM architecture, transformer models, training, fine-tuning, inference optimization, deployment
+Content: Step-by-step guide to understanding and building large language models. Covers transformer architecture fundamentals, attention mechanisms, tokenization, training data preparation, distributed training, fine-tuning for specific tasks, inference optimization, quantization techniques, and deploying LLMs efficiently. Discusses scaling challenges, memory requirements, and practical considerations for building LLM applications.
+
+BOOK: Fundamentals of Data Engineering (2022)
+Topics: Data pipeline design, batch and stream processing, data modeling, storage systems, quality
+Content: Comprehensive guide to data engineering fundamentals. Covers the data engineering lifecycle, storage systems (databases, data lakes, data warehouses), batch and stream processing patterns, designing scalable data pipelines, data quality and testing, orchestration tools, handling schema evolution, and best practices for building maintainable data systems. Discusses the distinction between analytics and operational data, and choosing appropriate technologies for different workloads.
+
+BOOK: The Practitioner's Guide to Graph Data (2020)
+Topics: Graph databases, graph algorithms, network analysis, recommendation systems, knowledge graphs
+Content: Practical approach to working with graph data. Covers graph data structures and databases like Neo4j, graph traversal and pattern matching, graph algorithms (shortest path, centrality, community detection), building recommendation systems with graphs, fraud detection using graph analysis, knowledge graphs, and visualizing graph data. Discusses use cases including social networks, knowledge representations, and complex relationship modeling.
